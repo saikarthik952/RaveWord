@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "346968453197",
+    "firebase_url": "https://techrave-5067f.firebaseio.com",
+    "project_id": "techrave-5067f",
+    "storage_bucket": "techrave-5067f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346968453197:android:9234e9548790da16",
+        "android_client_info": {
+          "package_name": "input.karthik.techrave.techraveinput"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346968453197-nmcipfa6h50a14slrno06agr2vllrmqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "input.karthik.techrave.techraveinput",
+            "certificate_hash": "c30dede4d973510fc015ddfc488ae363aa226245"
+          }
+        },
+        {
+          "client_id": "346968453197-4c9b8ctap85nuua1b2plrs5tl44g0jse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nc5JO6WZsQcosKY6a5KMmyJKRRYePLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346968453197-4c9b8ctap85nuua1b2plrs5tl44g0jse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346968453197:android:2d09f853527c5b52",
+        "android_client_info": {
+          "package_name": "official.karthik.raveword.raveword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346968453197-71uvrcnss8875g1305e7kqsel14biscm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "official.karthik.raveword.raveword",
+            "certificate_hash": "c30dede4d973510fc015ddfc488ae363aa226245"
+          }
+        },
+        {
+          "client_id": "346968453197-4c9b8ctap85nuua1b2plrs5tl44g0jse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nc5JO6WZsQcosKY6a5KMmyJKRRYePLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346968453197-4c9b8ctap85nuua1b2plrs5tl44g0jse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

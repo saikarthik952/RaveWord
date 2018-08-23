@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardview"
+app:cardElevation="16dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginLeft="4dp"
+    android:layout_marginRight="4dp"
+    app:cardCornerRadius="8dp"
+    android:transitionName="hello"
+    android:foreground="?android:attr/selectableItemBackground"
+   >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+android:scaleType="centerCrop"
+        android:transitionName="@string/collapanim"
+      />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/shadow_inverse"
+        />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+android:paddingTop="8dp"
+    android:paddingRight="8dp"
+    android:paddingLeft="8dp"
+    android:paddingBottom="8dp"
+    android:id="@+id/title"
+    android:textAlignment="center"
+android:background="@drawable/textbg"
+    android:textStyle="bold"
+    android:layout_centerHorizontal="true"
+    android:layout_alignParentBottom="true"
+    android:textColor="#ffffff"
+    android:textSize="22sp"/>
+
+</RelativeLayout>
+</android.support.v7.widget.CardView>

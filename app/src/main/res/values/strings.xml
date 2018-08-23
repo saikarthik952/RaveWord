@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RaveWord</string>
+    <string name="hello">hello</string>
+    <string name="collapanim">collap</string>
+    <string name="admob_app_id">ca-app-pub-5004081644594385~9188267491</string>
+
+    <string name="interstitial_full_screen">ca-app-pub-5004081644594385/6020066729</string>
+    <string name="radio">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="rewarded_video">ca-app-pub-5004081644594385/6570731067</string>
+    <string name="banner_home_footer">ca-app-pub-5004081644594385/6020066729</string>
+    <string name="title_activity_pager">PagerActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
